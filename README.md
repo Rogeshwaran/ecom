@@ -1,2 +1,2 @@
-# ecom
-ecom_repo
+# ecom_frontend
+ecom_frontend_repo
